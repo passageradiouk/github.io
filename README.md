@@ -1,2 +1,2 @@
-# bizzle
-Bizzles Kodi builds 
+
+Kodi builds by Bizzle
